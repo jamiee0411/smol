@@ -1,2 +1,2 @@
 # smol clothing 
-This is a static, responsive webpage for smol clothing. 
+This is a responsive webpage for smol clothing. 
